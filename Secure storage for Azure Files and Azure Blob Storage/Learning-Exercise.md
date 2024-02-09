@@ -29,6 +29,27 @@ The module is divided into five exercises, each covering a specific storage scen
 ## Skills and Topics:
 ![](./Screenshot%202024-02-08%20085015.png)
 
-## Baground
+## Background
 
 ![](./Screenshot%202024-02-08%20085351.png)
+
+Task 1:
+
+- Establish a naming convention.
+- Create a storage account.
+- Configure basic settings for security and networking.
+
+Task 2:
+
+![](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/Instructions/Media/task-2.png)
+
+- Create a storage account with anonymous public access.
+- Create a blob storage container.
+- Enable soft delete and versioning.
+
+Skilling tasks
+- Create a storage account with high availability.
+- Ensure the storage account has anonymous public access.
+- Create a blob storage container for the website documents.
+- Enable soft delete so files can be easily restored.
+- Enable blob versioning.
