@@ -53,3 +53,17 @@ Skilling tasks
 - Create a blob storage container for the website documents.
 - Enable soft delete so files can be easily restored.
 - Enable blob versioning.
+
+## Exercise - Provide private storage for internal company documents
+![alt text](image.png)
+
+### Skilling Tasks
+**Baground**- The company needs storage for their offices and departments. This content is private to the company and shouldn’t be shared without consent. This storage requires high availability if there’s a regional outage. The company wants to use this storage to back up the public website.
+
+- Create a storage account for the company private documents.
+- Configure redundancy for the storage account.
+Configure a shared access signature so partners have restricted access to a file.
+- Back up the public website storage.
+= Implement lifecycle management to move content to the cool tier.
+
+
